@@ -1,0 +1,3 @@
+[submodule ".fonts/juliamono"]
+	path = .fonts/juliamono
+	url = https://github.com/cormullion/juliamono
