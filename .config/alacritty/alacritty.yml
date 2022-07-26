@@ -1,0 +1,19 @@
+window:
+  opacity: 0.4
+  padding: 
+    x: 20
+    y: 10
+
+font:
+  size: 14
+
+colors:
+  primary:
+    background: "0x333333"
+
+mouse:
+  hide_when_typing: true
+
+cursor:
+  unfocused_hollow: true
+
